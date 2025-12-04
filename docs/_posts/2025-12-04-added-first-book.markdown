@@ -2,7 +2,6 @@
 layout: default
 title: Мої Книги
 date:   2025-12-04 20:30:38 +0200
-permalink: /books/
 ---
 
 # Каталог Моїх Книг
@@ -14,7 +13,7 @@ permalink: /books/
     <!-- Link that points to the PDF file -->
     <a href="then3310.github.io">
         <!-- Image that is clickable and serves as the cover -->
-        <img src="then3310.github.io" 
+        <img src="then3310.github.io/" 
              alt="Cover for Game Coding Complete book" 
              style="width: 150px; margin-right: 20px; border: 1px solid #ccc;">
     </a>
